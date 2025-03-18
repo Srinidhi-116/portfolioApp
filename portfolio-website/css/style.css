@@ -314,6 +314,10 @@ h2 {
     transition: transform 0.5s ease;
 }
 
+.petProjects{
+    object-fit: cover;
+}
+
 .project-content {
     position: absolute;
     top: 0;
